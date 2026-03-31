@@ -1,4 +1,4 @@
-# Jose Cortes Ramos | Data Analyst | Data Engineer | Software Developer
+# Jose Cortes Ramos | Data Analyst --> Data Engineer
 
 I am a multi-disciplinary professional specializing in building robust data infrastructures, performing advanced business analytics, and developing scalable software solutions. My approach combines engineering precision with data-driven decision making.
 
