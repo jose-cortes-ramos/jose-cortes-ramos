@@ -1,26 +1,37 @@
-# Jose Cortes Ramos | Data Analyst --> Data Engineer
+# Jose Cortes | Senior Data & Analytics Engineer 🚀
 
-I am a multi-disciplinary professional specializing in building robust data infrastructures, performing advanced business analytics, and developing scalable software solutions. My approach combines engineering precision with data-driven decision making.
+Expert in building scalable cloud-native data platforms and robust ETL ecosystems. I transform raw data into strategic assets through automation and modern engineering standards.
 
-## 🛠️ Technical Expertise
-- **Data Engineering:** ETL/ELT pipelines, Docker, SQL (Postgres, BigQuery), API Integration.
-- **Data Analysis:** Business Intelligence, Pandas, Exploratory Data Analysis (EDA), SQL Modeling.
-- **Software Development:** Python (Django, FastAPI), RESTful APIs, Containerization.
+## 🛠️ The Data Engineering Journey (End-to-End Portfolio)
 
-## 📂 Featured Projects
+### 🌌 Part 2: [GCP Data Platform Hub](https://github.com/jose-cortes-ramos/gcp-data-platform-hub) (In Progress)
+*   **Domain:** Cloud Architecture, Analytics Engineering & Data Analyst Hub.
+*   **The Problem:** Managing decentralized data streams for unified business intelligence.
+*   **The Solution:** A decoupled GCP Hub (BigQuery + Cloud Functions) managed via **Terraform**.
+*   **Tech Stack:** `GCP`, `Terraform`, `Python`, `BigQuery`, `Looker Studio`.
+*   **Key Achievement:** Implementing a **Medallion Architecture** (Bronze/Silver/Gold) to ensure a single source of truth for multi-pipeline analytics.
 
-### 🏗️ Data Engineering & Infrastructure
-- **[Crypto Data Pipeline (ETL)](https://github.com/jose-cortes-ramos/de-crypto-pipeline):** A production-grade pipeline for real-time cryptocurrency data ingestion into a PostgreSQL warehouse.
-
-### 📊 Data Analysis & Business Intelligence
-- **[E-commerce Insights](#):** *In Progress* - Customer behavior analysis and churn prediction using SQL and Streamlit.
-
-### 💻 Software Development
-- **[Logistics Management System](#):** *Private/Proprietary* - High-scale backend development for logistics and route optimization.
-
-## 📫 Professional Contact
-- **LinkedIn:** [jose-cortes-ramos](#)
-- **Email:** [jose.cortes.profesional@email.com](#)
+### 🐍 Part 1: [De-Crypto Pipeline](https://github.com/jose-cortes-ramos/de-crypto-pipeline) (Completed)
+*   **Domain:** Robust ETL & Data Quality Engineering.
+*   **The Problem:** Financial data inconsistency and brittle local scripts.
+*   **The Solution:** A resilient ETL pipeline with strict **Data Contracts** (Pydantic) and **Idempotent Persistence**.
+*   **Tech Stack:** `Python`, `PostgreSQL`, `Docker`, `Tenacity`, `Pytest`.
+*   **Key Achievement:** 100% data consistency with financial precision (Decimal) and automated CI/CD validation.
 
 ---
-*Jose Cortes Ramos - Bridging Engineering and Analytics*
+
+## 📈 Technical Skills
+*   **Data Engineering:** Python (Expert), ETL/ELT, Medallion Architecture, Pydantic, SQL.
+*   **Cloud Architecture:** GCP (Cloud Functions, BigQuery, GCS, IAM), Terraform (IaC).
+*   **Analytics & BI:** Looker Studio, Data Modeling (Star Schema), Analytics Engineering.
+*   **DataOps:** GitHub Actions (CI/CD), Docker, JSON Logging, Observability.
+
+---
+
+## 📬 Connect with me
+*   **LinkedIn:** [linkedin.com/in/josecortesramos](https://www.linkedin.com/in/josecortesramos/)
+*   **Email:** jcrbusiness031@gmail.com
+*   **Location:** Chile (Open to Remote)
+
+---
+*“Bridging the gap between raw infrastructure and actionable business intelligence.”*
