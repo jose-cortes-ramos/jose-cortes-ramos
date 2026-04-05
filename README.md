@@ -12,13 +12,13 @@ Data-driven engineer with a strong background in high-scale industrial operation
 
 ## Featured Projects
 
-### GCP Data Platform Hub (In Progress)
+### [GCP Data Platform Hub](https://github.com/jose-cortes-ramos/gcp-data-platform-hub) (In Progress)
 * Domain: Cloud Architecture, Analytics Engineering & Data Analyst Hub.
 * The Goal: Building a decoupled data hub in Google Cloud Platform to centralize multi-pipeline analytics.
 * Tech Stack: GCP (BigQuery, Cloud Functions), Terraform, Python, Looker Studio.
 * Key Achievement: Implementing a cloud-native Medallion Architecture to ensure a single source of truth for multi-pipeline analytics.
 
-### De-Crypto Pipeline (Completed)
+### [De-Crypto Pipeline](https://github.com/jose-cortes-ramos/de-crypto-pipeline) (Completed)
 * Domain: Robust ETL & Data Quality Engineering.
 * The Goal: A resilient pipeline for crypto market data with strict validation and idempotent persistence.
 * Tech Stack: Python, Pydantic (Data Contracts), PostgreSQL, Docker, GitHub Actions.
