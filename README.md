@@ -12,11 +12,11 @@ Data-driven engineer with a strong background in high-scale industrial operation
 
 ## Featured Projects
 
-### [GCP Data Platform Hub](https://github.com/jose-cortes-ramos/gcp-data-platform-hub) (In Progress)
+### [GCP Data Platform Hub](https://github.com/jose-cortes-ramos/gcp-data-platform-hub) (Infrastructure Deployed & Ingestion Pipeline Operational)
 * Domain: Cloud Architecture, Analytics Engineering & Data Analyst Hub.
 * The Goal: Building a decoupled data hub in Google Cloud Platform to centralize multi-pipeline analytics.
-* Tech Stack: GCP (BigQuery, Cloud Functions), Terraform, Python, Looker Studio.
-* Key Achievement: Implementing a cloud-native Medallion Architecture to ensure a single source of truth for multi-pipeline analytics.
+* Tech Stack: GCP (BigQuery, Cloud Functions, GCS), Terraform, Python, Looker Studio.
+* Key Achievement: Deployed a cloud-native infrastructure and operational ingestion pipeline, demonstrating end-to-end data flow from GCS to BigQuery.
 
 ### [De-Crypto Pipeline](https://github.com/jose-cortes-ramos/de-crypto-pipeline) (Completed)
 * Domain: Robust ETL & Data Quality Engineering.
@@ -28,7 +28,7 @@ Data-driven engineer with a strong background in high-scale industrial operation
 
 ## Technical Stack
 * Languages & Frameworks: Python (Expert in ETL), SQL, Celery, Redis, Pydantic.
-* Cloud & Infrastructure: GCP (BigQuery, Cloud Functions), Terraform, Docker.
+* Cloud & Infrastructure: GCP (BigQuery, Cloud Functions, GCS), Terraform, Docker.
 * Data Modeling: Medallion Architecture, Star Schema, Dimensional Modeling.
 * Analytics: Power BI, Looker Studio, Root Cause Analysis, Performance Tracking.
 
