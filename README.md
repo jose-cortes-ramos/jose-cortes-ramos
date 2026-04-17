@@ -1,47 +1,38 @@
-# Jose Cortes | Data Analyst - Analytics Engineer
+# Jose Cortes | Data Analyst · Power BI · SQL · Python
 
-Data-driven engineer with a strong background in high-scale industrial operations (Mining & Construction). I specialize in building scalable data architectures, optimizing ETL/ELT pipelines, and transforming massive datasets into strategic business assets.
+Data Analyst with 4+ years converting operational data into measurable business
+outcomes. I specialize in executive dashboards, forecasting models, and end-to-end
+ETL pipelines — delivering self-service analytics that drive decisions, not just reports.
 
-## Professional Experience Highlights
-* **Scalability & Automation**: Managed and processed over **60M+ records** per unit for autonomous fleet analysis in Mining operations. Engineered distributed ETL pipelines using Python, Celery, Redis, and Docker.
-* **Architecture & IaC**: Designed and deployed decoupled cloud-native data platforms on **GCP** using **Terraform**, including GCS, BigQuery (Medallion Architecture), and Cloud Functions.
-* **Data Quality & Precision**: Ensured 100% data consistency with financial precision (Decimal) and implemented robust validation using **Pydantic** and **Idempotent Persistence**.
+---
+
+## Professional Highlights
+
+- **Impact**: Drove safety incident closure from 13% → 57% in under 2 months.
+  Reduced operational costs by 20%. Scaled fleet analytics from 12 to 32 units.
+- **Stack**: Power BI (DAX) · Python · SQL · BigQuery · GCP · Docker · Looker Studio
+- **Approach**: Stakeholder management + technical delivery — from shift supervisors
+  to executive teams.
 
 ---
 
 ## Featured Projects
 
-### [GCP Data Platform Hub](https://github.com/jose-cortes-ramos/gcp-data-platform-hub) (Infrastructure Deployed & Ingestion Pipeline Operational)
-*   **Domain:** Cloud Architecture, Analytics Engineering & Decision Support Hub.
-*   **The Goal:** Building a decoupled, cloud-native data hub on GCP to centralize multi-pipeline analytics, enabling strategic business insights.
-*   **Tech Stack:** GCP (BigQuery, Cloud Functions, GCS), Terraform, Python, Looker Studio.
-*   **Key Achievement:** Deployed a cloud-native infrastructure and operational ingestion pipeline, demonstrating end-to-end data flow from GCS to BigQuery.
+### [GCP Data Platform Hub](https://github.com/jose-cortes-ramos/gcp-data-platform-hub)
+Cloud-native analytics platform on GCP (BigQuery + Cloud Functions + Looker Studio)
+managed via Terraform. Medallion Architecture (Bronze/Silver/Gold) with automated
+ingestion pipelines and real-time crypto market dashboard.
+[Live Dashboard →](https://datastudio.google.com/u/1/reporting/538415c3-e5dc-4071-80fb-1bebbbc315e9)
 
-### [De-Crypto Pipeline](https://github.com/jose-cortes-ramos/de-crypto-pipeline) (Completed)
-*   **Domain:** Robust ETL & Data Quality Engineering.
-*   **The Goal:** A resilient pipeline for crypto market data with strict validation and idempotent persistence.
-*   **Tech Stack:** Python, Pydantic (Data Contracts), PostgreSQL, Docker, GitHub Actions.
-*   **Key Achievement:** 100% data consistency with financial precision (Decimal) and automated CI/CD validation.
-
----
-
-## Core Competencies & Analytics Expertise
-
-*   **Data Engineering**: Python (Expert in ETL/ELT), SQL, Celery, Redis, Pydantic, Data Warehousing (Medallion Architecture), BigQuery.
-*   **Cloud & Infrastructure**: GCP (BigQuery, Cloud Functions, GCS), Terraform (IaC), Docker.
-*   **Analytics & BI**: **End-to-end analytics delivery**, including:
-    *   **Power BI dashboards** for C-level stakeholders in Mining & Construction.
-    *   **Cost forecasting models** deployed in production.
-    *   **Operational analytics** using **ASARCO methodology** for autonomous fleet management.
-    *   **Real-time crypto market analysis** with Looker Studio.
-*   **DataOps**: GitHub Actions (CI/CD), JSON Logging, Observability.
+### [De-Crypto Pipeline](https://github.com/jose-cortes-ramos/de-crypto-pipeline)
+Production-grade ETL pipeline ingesting 365 days of crypto market data with Pydantic
+data contracts, idempotent UPSERT logic, Docker containerization, and CI/CD via
+GitHub Actions. 100% data consistency guaranteed.
 
 ---
 
-## Connect with me
-*   **LinkedIn:** [linkedin.com/in/josecortesramos](https://www.linkedin.com/in/josecortesramos/)
-*   **Email:** jcrbusiness031@gmail.com
-*   **Location:** Chile (Open to Remote)
+## Connect
 
----
-*"Transforming high-volume industrial data into automated, actionable intelligence and strategic business insights."*
+- LinkedIn: [linkedin.com/in/josecortesramos](https://linkedin.com/in/josecortesramos)
+- Email: jcrbusiness031@gmail.com
+- Location: Santiago, Chile · Open to Remote
