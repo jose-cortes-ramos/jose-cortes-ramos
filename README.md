@@ -1,4 +1,4 @@
-# Jose Cortes | Data & Analytics Engineer
+# Jose Cortes | Data Analyst - Analytics Engineer
 
 Data-driven engineer with a strong background in high-scale industrial operations (Mining & Construction). I specialize in building scalable data architectures, optimizing ETL/ELT pipelines, and transforming massive datasets into strategic business assets.
 
