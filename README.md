@@ -9,7 +9,8 @@ ETL pipelines — delivering self-service analytics that drive decisions, not ju
 ## Professional Highlights
 
 - **Impact**: Drove safety incident closure from 13% → 57% in under 2 months.
-  Reduced operational costs by 20%. Scaled fleet analytics from 12 to 32 units.
+  Reduced operational costs by 20%. Reducing stoppages by −42% (12 → 7 per cycle), 
+  and increasing availability efecctive from 76% to 85% of the Automnomous Fleet.
 - **Stack**: Power BI (DAX) · Python · SQL · BigQuery · GCP · Docker · Looker Studio
 - **Approach**: Stakeholder management + technical delivery — from shift supervisors
   to executive teams.
